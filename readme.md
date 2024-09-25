@@ -17,3 +17,4 @@ Project Structure
 index.html - main HTML file of the project
 styles.css - stylesheet file of the project
 script.js - script file of the project
+![image](https://github.com/user-attachments/assets/531215e6-5986-49f6-9aba-02d32c1d1a9e)
